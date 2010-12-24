@@ -1,0 +1,11 @@
+{
+  "name": "Replace Jimmy Wales with Julian Assange",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["http://*.wikipedia.org/*"],
+      "css": ["assange.css"],
+      "js": ["jquery-1.4.4.min.js","message.js"]
+    }
+  ]
+}
