@@ -1,3 +1,5 @@
+h1. No longer that much of a fan of WikiLeaks :6 but leaving here as a template
+
 h1. Replace Jimmy Wales with Julian Assange
 
 This extension modifies the Wikipedia/Jimmy Wales donation solicitation.  It replaces Jimmy with Julian, and replaces the text 'Wikipedia' and 'Jimmy Wales' with 'WikiLeaks' and 'Julian Assange' respectively.  It links to the WikiLeaks support page, which will undoubtedly break at some point.
